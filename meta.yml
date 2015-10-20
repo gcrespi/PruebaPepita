@@ -1,4 +1,5 @@
 ---
+locale: en
 language: ruby
 original_id_format: '%05d'
 order:
